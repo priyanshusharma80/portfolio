@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Priyanshu Sharma",
-  profile: '/profile.jpeg',
+  profile: '/Profile.jpeg',
   designation: "Frontend Developer",
   description: "Frontend Engineer with over 3 years of experience building responsive and user-friendly web applications. Proficient in HTML, CSS, JavaScript, and React, I specialize in creating modern, scalable websites that improve user engagement and performance. Currently pursuing my Master’s in Computer Applications at NIT Raipur, I also bring expertise in SEO strategies and digital marketing.",
   email: 'iempriyanshu@gmail.com',
